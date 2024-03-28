@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Pavlo Sernetskyi",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -10,8 +11,8 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-	},
-	
-	"author": "Pavlo Sernetskyi"
+	}
+
+
 
 }
